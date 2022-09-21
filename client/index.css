@@ -1,4 +1,14 @@
-#container {
+body {
+    margin: 0;
+    background-color: #FAFAFA;
+ }
+
+#proj {
+    background-color: antiquewhite;
+    padding-bottom: 0.5rem;
+}
+
+.container {
     text-align: center;
     font-size: 25px;
 }
