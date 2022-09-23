@@ -2,10 +2,12 @@ body {
     margin: 0;
     background-color: #FAFAFA;
  }
+ 
 
 #proj {
     background-color: antiquewhite;
     padding-bottom: 0.5rem;
+    justify-content: center;
 }
 
 .container {
@@ -14,8 +16,8 @@ body {
 }
 
 
-#links {
-    margin-left: 50px;/*or whatever indentation size you want*/
+.links {
+    margin-left: 20px;
   }
   
 ul {
